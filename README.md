@@ -13,7 +13,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na Unisenai, 23 anos, apaixo
 - **10+ Projetos Pessoais**
 
 <p align="center">
-  <img src="gif_dinossauro.gif" alt="Dinossauro GIF" width="300"/>
+  <img src="gif_dinossauro.gif" alt="Dinossauro GIF" width="800"/>
 </p>
 
 
