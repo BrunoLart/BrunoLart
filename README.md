@@ -1,4 +1,7 @@
 # Olá, eu sou Bruno Silva 👋
+<p align="center">
+  <img src="gif_dinossauro.gif" alt="Dinossauro GIF" width="800"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/giphy.gif" alt="Welcome GIF" width="300"/>
@@ -11,13 +14,6 @@ Estudante de Análise e Desenvolvimento de Sistemas na Unisenai, 23 anos, apaixo
 
 - **8 meses de Estudo**
 - **10+ Projetos Pessoais**
-
-<p align="center">
-  <img src="gif_dinossauro.gif" alt="Dinossauro GIF" width="800"/>
-</p>
-
-
----
 
 ## 🛠️ Habilidades Técnicas
 
