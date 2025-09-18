@@ -1,6 +1,6 @@
 # Olá, eu sou Bruno Silva 👋
 <p align="center">
-  <img src="gif_dinossauro.gif" alt="Dinossauro GIF" width="800"/>
+  <img src="gif_dinossauro.gif" alt="Dinossauro GIF" width="1000"/>
 </p>
 
 <p align="center">
