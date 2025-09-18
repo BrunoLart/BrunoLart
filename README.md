@@ -9,7 +9,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas na Unisenai, 23 anos, apaixonado por tecnologia e criação de soluções digitais inovadoras.
 
 
-- **1+ Anos de Estudo**
+- **8 meses de Estudo**
 - **10+ Projetos Pessoais**
 
 <p align="center">
